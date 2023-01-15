@@ -1,0 +1,3 @@
+plik testowy
+druga linijka
+trzecia linijka
